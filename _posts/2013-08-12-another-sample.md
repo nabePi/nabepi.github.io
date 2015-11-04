@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Another sample
-categories: Random
+categories:
 - blog
 ---
 
